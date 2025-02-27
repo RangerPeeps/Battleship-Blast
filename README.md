@@ -1,2 +1,2 @@
 # Battleship-Blast
-This games was created by Emmett Dodd in PenguinMod, which is a clone of Scratch!
+This games was created by Ranger Peeps in PenguinMod, which is a clone of Scratch!
